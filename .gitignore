@@ -1,0 +1,46 @@
+__pycache__/
+*.pyc
+.venv/
+svglab_cache/
+examples/*.svg
+*.mp4
+*.gif
+*.webm
+chapters.srt
+
+# Added by Git Repo Creator
+# Media, Archives, and AI Models
+*.7z
+*.aac
+*.avi
+*.blend
+*.flac
+*.flv
+*.gz
+*.iso
+*.jpeg
+*.jpg
+*.m4a
+*.mkv
+*.mov
+*.mp3
+*.ogg
+*.png
+*.rar
+*.tar
+*.wav
+*.wmv
+*.zip
+# Python / Dev
+*.py[cod]
+.env
+.env.local
+*.log
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
+
+# Added by Git Repo Creator
+# GitHub Actions
+.github/
